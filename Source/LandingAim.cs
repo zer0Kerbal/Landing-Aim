@@ -39,7 +39,7 @@ namespace LandingAim
         public override void OnStart(StartState state)
 
         {
-            _crossTexture = GameDatabase.Instance.GetTexture("OLDD/LandingAim/AimCross", false);
+            _crossTexture = GameDatabase.Instance.GetTexture("OLDD/LandingAim/Plugins/PluginData/AimCross", false);
 			Line = gameObject.AddComponent<LineRenderer>();
 			Line.useWorldSpace = true;
 		    Line.enabled = IsLandingAim;
