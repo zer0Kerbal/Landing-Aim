@@ -12,3 +12,5 @@ If activated in the flight scene, it will draw the trajectory and predict the po
 Installation:
 - Use CKAN
 - Unzip the contents in your GameData folder.
+
+![Validate AVC .version files](https://github.com/zer0Kerbal/Landing-Aim/workflows/Validate%20AVC%20.version%20files/badge.svg)
